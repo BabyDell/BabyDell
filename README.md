@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Next.js.
 - 📫 How to reach me, A.Java.Coder7@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play all sports like volleyball, track, tennis, soccer, basketball. I also work at In n Out.
+- ⚡ Fun fact: I love to play all sports such as volleyball, track, tennis, soccer, basketball. I also work at In n Out.
